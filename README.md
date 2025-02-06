@@ -30,7 +30,7 @@ Cada proyecto tiene sus propias dependencias y configuración. Para ejecutar un 
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/ejemplos-react-native.git
+   git clone https://github.com/aherrera-itum/ejemplos-react-native.git
    cd ejemplos-react-native
    ```
 2. Accede al directorio del proyecto que deseas ejecutar:
